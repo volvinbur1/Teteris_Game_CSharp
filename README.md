@@ -1,6 +1,5 @@
 # Teteris_Game_CSharp
-Tetris is a basic game, which should be written by every beginner developer.
+Tetris is a basic game for a programer.
 
-Using this code you can help yourself with writing your own game.
-If you have found some bugs, correct it ownself or just text me about it.
-Good Luck and have fun.
+This project is fully done.
+I wrote my own algorithm of figure moving and roration. I don't use any pictures, all figures is drawn in `Panel`.
